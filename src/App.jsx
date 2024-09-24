@@ -1,6 +1,9 @@
 import { Button } from "@/components/ui/button";
 import { useState } from "react";
 import "./App.css";
+import { CardWithForm } from "./card/card";
+
+
 function App() {
   const [count, setCount] = useState(0);
 
@@ -12,6 +15,8 @@ function App() {
             count is {count}
           </Button>
         </div>
+        <CardWithForm/>
+
       </div>
     </>
   );
