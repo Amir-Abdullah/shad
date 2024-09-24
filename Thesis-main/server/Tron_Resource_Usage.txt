@@ -1,0 +1,4 @@
+Transaction 36e976055f174a6c4b1e99a987b164f4a0eab3f563dcf5b4a7f9433409cd273f - CPU Used: 0.00%, Memory Used: 0.68 MB
+Transaction feed2702fe47118f6e409330e73926981f8ccb18acfc0d78ac8f04115003358e - CPU Used: -1.60%, Memory Used: 1.20 MB
+Transaction bc68bd59373190eda27e1bb5de6f8cd249a5a456a910595ef7b7b4ffc96f860b - CPU Used: 4.41%, Memory Used: -10.81 MB
+Transaction 0e8f4025771b99302f7a9fb27387a8f404486662b0066058640f50ffae6f7682 - CPU Used: 0.00%, Memory Used: -1.11 MB

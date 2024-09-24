@@ -1,0 +1,6 @@
+Default gas Price
+Transaction 1 - GasPrice: 25710262084, GasLimit: 26962, Latency: 47.914s, Ether Used: 0.000684355756151912 ETH
+Transaction 2 - GasPrice: 24784997699, GasLimit: 26962, Latency: 67.885s, Ether Used: 0.000659727068751982 ETH
+2x the default gas Price
+Transaction 1 - GasPrice: 48865748986, GasLimit: 26962, Latency: 11.592s, Ether Used: 0.001300708506509348 ETH
+Transaction 2 - GasPrice: 49151273774, GasLimit: 26962, Latency: 11.572s, Ether Used: 0.001308308605316332 ETH

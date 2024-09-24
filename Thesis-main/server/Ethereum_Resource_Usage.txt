@@ -1,0 +1,4 @@
+Transaction 1 - CPU Used: 0.03%, Memory Used: 2.79 MB
+Transaction 2 - CPU Used: 0.00%, Memory Used: -0.64 MB
+Transaction 1 - CPU Used: 0.24%, Memory Used: 0.78 MB
+Transaction 2 - CPU Used: 0.12%, Memory Used: 0.68 MB
