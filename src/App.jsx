@@ -2,7 +2,7 @@ import { Button } from "@/components/ui/button";
 import { useState } from "react";
 import "./App.css";
 import { CardWithForm } from "./card/card";
-
+import { Input } from "@/components/ui/input"
 
 function App() {
   const [count, setCount] = useState(0);
@@ -16,7 +16,10 @@ function App() {
           </Button>
         </div>
         <CardWithForm/>
-
+        Ethereum
+       <Input/>
+       Tron 
+       <Input/>
       </div>
     </>
   );
