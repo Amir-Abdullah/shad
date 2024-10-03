@@ -1,10 +1,12 @@
 const express = require('express');
 const bodyParser = require('body-parser');
-const executeEthereum = require('./Ethereum.js');
-const executeTron = require('./Tron.js');
 require('dotenv').config();
 
+const executeEthereum = require('./Ethereum.js');
+const executeTron = require('./Tron.js');
+const cors = require('cors')
 const app = express();
+app.use(cors());
 app.use(bodyParser.json());
 
 app.post('/execute', async (req, res) => {

@@ -4,3 +4,47 @@ Average Latency: 57.8995s
 2x the default gas Price
 Average Latency: 11.582s
 Throughput (TPS): 0.05 at 2024-09-23T17:08:42.435Z
+Default gas Price
+Default gas Price
+Throughput (TPS): 0 at 2024-09-24T12:13:43.313Z
+Average Latency: 11.8315s
+2x the default gas Price
+Average Latency: 9.897s
+Throughput (TPS): 0.05 at 2024-09-24T12:18:09.200Z
+Default gas Price
+Default gas Price
+Default gas Price
+Default gas Price
+Default gas Price
+Throughput (TPS): 0 at 2024-09-24T14:03:17.948Z
+2x the default gas Price
+Throughput (TPS): 0 at 2024-09-24T14:03:23.029Z
+2x the default gas Price
+Default gas Price
+Throughput (TPS): 0 at 2024-09-24T14:12:37.279Z
+2x the default gas Price
+Throughput (TPS): 0 at 2024-09-24T14:13:45.448Z
+Default gas Price
+Average Latency: 16.346s
+Throughput (TPS): 0.03333333333333333 at 2024-09-24T14:18:34.041Z
+2x the default gas Price
+Throughput (TPS): 0.016666666666666666 at 2024-09-24T14:19:40.164Z
+Average Latency: 31.578000000000003s
+Default gas Price
+Average Latency: 25.636499999999998s
+Throughput (TPS): 0.03333333333333333 at 2024-09-24T17:07:29.994Z
+2x the default gas Price
+Average Latency: 21.694000000000003s
+Throughput (TPS): 0.03333333333333333 at 2024-09-24T17:08:38.272Z
+Default gas Price
+Average Latency: 24.6635s
+Throughput (TPS): 0.03333333333333333 at 2024-09-30T15:13:51.121Z
+2x the default gas Price
+Average Latency: 20.9075s
+Throughput (TPS): 0.03333333333333333 at 2024-09-30T15:14:57.853Z
+Default gas Price
+Throughput (TPS): 0.016666666666666666 at 2024-09-30T15:29:15.265Z
+Average Latency: 43.098000000000006s
+2x the default gas Price
+Average Latency: 19.7025s
+Throughput (TPS): 0.05 at 2024-09-30T15:30:47.109Z

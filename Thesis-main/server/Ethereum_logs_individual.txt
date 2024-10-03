@@ -4,3 +4,43 @@ Transaction 2 - GasPrice: 24784997699, GasLimit: 26962, Latency: 67.885s, Ether 
 2x the default gas Price
 Transaction 1 - GasPrice: 48865748986, GasLimit: 26962, Latency: 11.592s, Ether Used: 0.001300708506509348 ETH
 Transaction 2 - GasPrice: 49151273774, GasLimit: 26962, Latency: 11.572s, Ether Used: 0.001308308605316332 ETH
+Default gas Price
+Transaction 1 - GasPrice: 37561675967, GasLimit: 26962, Latency: 12.275s, Ether Used: 0.000999816690889606 ETH
+Default gas Price
+Transaction 2 - GasPrice: 35282731948, GasLimit: 24156, Latency: 23.663s, Ether Used: 0.000840364109537464 ETH
+2x the default gas Price
+Transaction 1 - GasPrice: 68539500978, GasLimit: 26962, Latency: 11.515s, Ether Used: 0.001824384437032404 ETH
+Transaction 2 - GasPrice: 69804123210, GasLimit: 26962, Latency: 8.279s, Ether Used: 0.00185804615160378 ETH
+Default gas Price
+Default gas Price
+Default gas Price
+Default gas Price
+Default gas Price
+2x the default gas Price
+2x the default gas Price
+Default gas Price
+2x the default gas Price
+Default gas Price
+Transaction 1 - GasPrice: 53580360, GasLimit: 21204, Latency: 13.8s, Ether Used: 0.00000113611795344 ETH
+Transaction 2 - GasPrice: 53580360, GasLimit: 21204, Latency: 18.892s, Ether Used: 0.00000113611795344 ETH
+2x the default gas Price
+Transaction 1 - GasPrice: 107160720, GasLimit: 21204, Latency: 53.188s, Ether Used: 0.00000227223590688 ETH
+Transaction 2 - GasPrice: 107160720, GasLimit: 21204, Latency: 9.968s, Ether Used: 0.00000227223590688 ETH
+Default gas Price
+Transaction 1 - GasPrice: 50111278, GasLimit: 21204, Latency: 29.169s, Ether Used: 0.000001062559538712 ETH
+Transaction 2 - GasPrice: 50111279, GasLimit: 21204, Latency: 22.104s, Ether Used: 0.000001062559559916 ETH
+2x the default gas Price
+Transaction 1 - GasPrice: 100222558, GasLimit: 21204, Latency: 21.69s, Ether Used: 0.000002125119119832 ETH
+Transaction 2 - GasPrice: 100222558, GasLimit: 21204, Latency: 21.698s, Ether Used: 0.000002125119119832 ETH
+Default gas Price
+Transaction 1 - GasPrice: 27276895, GasLimit: 21204, Latency: 16.696s, Ether Used: 0.00000057837928158 ETH
+Transaction 2 - GasPrice: 27276895, GasLimit: 21204, Latency: 32.631s, Ether Used: 0.00000057837928158 ETH
+2x the default gas Price
+Transaction 1 - GasPrice: 54553790, GasLimit: 21204, Latency: 20.884s, Ether Used: 0.00000115675856316 ETH
+Transaction 2 - GasPrice: 54553790, GasLimit: 21204, Latency: 20.931s, Ether Used: 0.00000115675856316 ETH
+Default gas Price
+Transaction 1 - GasPrice: 24894884, GasLimit: 21204, Latency: 16.763s, Ether Used: 0.000000527871120336 ETH
+Transaction 2 - GasPrice: 24894884, GasLimit: 21204, Latency: 69.433s, Ether Used: 0.000000527871120336 ETH
+2x the default gas Price
+Transaction 1 - GasPrice: 49789768, GasLimit: 21204, Latency: 18.543s, Ether Used: 0.000001055742240672 ETH
+Transaction 2 - GasPrice: 49789768, GasLimit: 21204, Latency: 20.862s, Ether Used: 0.000001055742240672 ETH
